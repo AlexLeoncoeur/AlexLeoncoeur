@@ -11,9 +11,10 @@
     <img src="https://skillicons.dev/icons?i=c,vscode,vim" />
   </a>
 </p></td>
-    <td><p align="center">Contact me: <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vscode,vim" />
+    <td><p align="center">Contact me:<br>
+      <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/alejandro-arenas-león"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="mailto:alejandroarenasleon2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </a></td>
   </tr>
 </table>
