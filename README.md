@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td>A1</td>
+    <td><p align="center"> Take a look at my <br> <a href="https://github.com/AlexLeoncoeur/42-proyects">42 proyects!</td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlexLeoncoeur&theme=tokyonight-duo&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></td>
   </tr>
   <tr>
