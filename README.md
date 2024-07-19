@@ -19,6 +19,5 @@
   </tr>
 </table>
 
-
 > [!NOTE]
 > My journey as a programmer is still going and I'm learning new skills and languages.
