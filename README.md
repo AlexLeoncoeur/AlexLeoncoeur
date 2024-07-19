@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**AlexLeoncoeur/AlexLeoncoeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there, I'm Alex 🤙🏻
 -->
+![image](https://github.com/user-attachments/assets/50745968-a55b-40be-a3fc-43014d7fca0f)
+
+
+
+|  link a mis proyectos  |  stats de github  |
+|  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/50745968-a55b-40be-a3fc-43014d7fca0f">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/50745968-a55b-40be-a3fc-43014d7fca0f">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/50745968-a55b-40be-a3fc-43014d7fca0f">
+</picture>  |  links a mis contactos|
+
+
+> [!NOTE]
+> I am still progresing as a programmer and learning new skills.
