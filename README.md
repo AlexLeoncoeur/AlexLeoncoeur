@@ -1,6 +1,6 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Alex+%F0%9F%A4%99%F0%9F%8F%BB;Welcome+to+my+github!" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Alex+%F0%9F%A4%99%F0%9F%8F%BB;Welcome+to+my+github!" alt="Typing SVG" /></a>
 
-<table>
+<table align="center">
   <tr>
     <td>A1</td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlexLeoncoeur&theme=tokyonight-duo&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></td>
