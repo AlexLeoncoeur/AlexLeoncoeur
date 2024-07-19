@@ -1,4 +1,4 @@
-## Hi there, I'm Alex 🤙🏻
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Alex+%F0%9F%A4%99%F0%9F%8F%BB;Welcome+to+my+github!" alt="Typing SVG" /></a>
 
 <table>
   <tr>
