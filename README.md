@@ -11,9 +11,12 @@
     <img src="https://skillicons.dev/icons?i=c,vscode,vim" />
   </a>
 </p></td>
-    <td>B2</td>
+    <td><p align="center">Contact me: <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,vscode,vim" />
+  </a></td>
   </tr>
 </table>
 
 > [!NOTE]
-> I am still progresing as a programmer and learning new skills.
+> My journey as a programmer is still going and I'm learning new skills and languages.
