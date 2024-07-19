@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=alexleoncoeur&style=flat-square&color=red"></p>
-
 > [!NOTE]
 > My journey as a programmer is still going and I'm learning new skills and languages.
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=alexleoncoeur&style=flat-square&color=red"></p>
