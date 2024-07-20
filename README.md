@@ -19,4 +19,4 @@
   </tr>
 </table>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=alexleoncoeur&style=flat-square&color=red"></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=alexleoncoeur&style=flat-square&color=blue"></p>
