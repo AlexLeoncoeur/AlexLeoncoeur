@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td><p align="center">Take a look at my <br> <a href="https://github.com/AlexLeoncoeur/42-proyects">42 school proyects!
-      <p align="center"><img src="https://img.shields.io/badge/CPiscine-Finished-blue"></p>
+      <p align="center"><img src="https://img.shields.io/badge/CPiscine-Finished-purple"></p>
       <p align="center"><img src="https://img.shields.io/badge/42Cursus-Rank 03-yellow"></p></td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlexLeoncoeur&theme=tokyonight-duo&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></td>
   </tr>
