@@ -11,16 +11,15 @@
     <td><p align="center">📩 Contact me:<br>
       <a href="https://skillicons.dev">
     <a href="https://www.linkedin.com/in/alejandro-arenas-león-b14882242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="mailto:alejandroarenasleon2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-    <td><p align="center">🛠️ Languages and tools:<br>
+      <a href="mailto:alejandroarenasleon2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <p align="center">🛠️ Languages and tools:<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,vscode,vim" />
   </a>
 </p></td>
+    <td><p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aarenas-?1337Badge=off&UM6P=off" alt="aarenas-'s 42 stats" /></a></td>
   </tr>
 </table>
-
-<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aarenas-?1337Badge=off&UM6P=off" alt="aarenas-'s 42 stats" /></a>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=alexleoncoeur&style=flat-square&color=blue"></p>
 
