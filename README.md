@@ -20,5 +20,7 @@
   </tr>
 </table>
 
+<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aarenas-?1337Badge=off&UM6P=off" alt="aarenas-'s 42 stats" /></a>
+
 <p align="right"><img src="https://komarev.com/ghpvc/?username=alexleoncoeur&style=flat-square&color=blue"></p>
 
