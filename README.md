@@ -11,11 +11,7 @@
                 <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=c" /><br>
                 <img src="https://skillicons.dev/icons?i=vscode" /><br>
-                <img src="https://skillicons.dev/icons?i=vim" /><br>
                 <img src="https://skillicons.dev/icons?i=bash" /><br>
-                <img src="https://skillicons.dev/icons?i=html" /><br>
-                <img src="https://skillicons.dev/icons?i=docker" /><br>
-                <img src="https://skillicons.dev/icons?i=css" /><br>
                 <img src="https://skillicons.dev/icons?i=django" /><br>
                 <img src="https://skillicons.dev/icons?i=mysql" /><br>
                 <img src="https://skillicons.dev/icons?i=docker"</a></p>
