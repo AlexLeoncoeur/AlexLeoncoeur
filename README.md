@@ -10,7 +10,6 @@
             <td rowspan="2"><p align="center">🛠️ Languages and tools:<br>
                 <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=c" /><br>
-                <img src="https://skillicons.dev/icons?i=vscode" /><br>
                 <img src="https://skillicons.dev/icons?i=bash" /><br>
                 <img src="https://skillicons.dev/icons?i=django" /><br>
                 <img src="https://skillicons.dev/icons?i=mysql" /><br>
