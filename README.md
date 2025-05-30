@@ -14,7 +14,10 @@
                 <img src="https://img.shields.io/badge/-YARA-informational?style=flat&logo=virustotal&color=394EFF" /><br>
                 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&color=42f56f" /><br>
                 <p align="center">📚 Learning:<br><br>
-                <img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&color=42d4f5"</a></p>
+                <img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&color=42d4f5"</a><br>
+                <img src="https://img.shields.io/badge/-wireshark-informational?style=flat&logo=wireshark&color=FFDB1E"</a><br>
+                <img src="https://img.shields.io/badge/-Snort-informational?style=flat&logo=snort&color=BD081C"</a></p>
+            </td>
             </td>
         </tr>
         <tr>
